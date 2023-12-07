@@ -1,0 +1,25 @@
+{
+  "name": "aleatorie-msg",
+  "version": "1.0.0",
+  "description": "Mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Graffyter/aleatorie-msg.git"
+  },
+  "keywords": [],
+  "author": "Alejandro Restrepo <alejorpo97@gmail.com>",
+  "license": "MIT",
+  "bugs":{
+    "url": "https://github.com/Graffyter/aleatorie-msg/issues"
+  },
+  "homepage": "https://github.com/Graffyter/aleatorie-msg#readme",
+  "bin": {
+    "aleatorie-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
+ 
